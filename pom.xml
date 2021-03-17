@@ -34,7 +34,7 @@
 						<cloudHubDeployment>
 							<uri>https://anypoint.mulesoft.com</uri>
 							<muleVersion>4.3.0</muleVersion>
-							<server>cloudhubdetails1</server>
+							<server>cloudhubdetails123</server>
 							<applicationName>muledeploy1-gk</applicationName>
 							<environment>Sandbox</environment>
 							<region>us-east-1</region>
